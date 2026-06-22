@@ -11,13 +11,13 @@ When the application starts:
 
 1. Check internet connection.
 2. Download latest version information from:
-   https://your-domain.com/version.json
+   https://github.com/ahmadsubhan1515/Commando-Updater/version.json
 
 Example:
 
 {
 "version": "1.0.1",
-"download_url": "https://your-domain.com/Optimizer.zip",
+"download_url": "https://github.com/ahmadsubhan1515/Commando-Updater/Optimizer.zip",
 "changelog": "Bug fixes and performance improvements"
 }
 
@@ -125,7 +125,7 @@ Show user-friendly messages.
 Update Dialog:
 
 Title:
-"Warrior Optimizer Update Available"
+"Commando Paid Optimizer Update Available"
 
 Display:
 
@@ -149,7 +149,7 @@ Download Window:
 
 Application Folder:
 
-/WarriorOptimizer
+/CommandoPaidOptimizer
 Optimizer.exe
 Updater.exe
 config.json
